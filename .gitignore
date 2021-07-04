@@ -132,3 +132,4 @@ dmypy.json
 resource/
 *.pdf
 *.docx
+/fyp_website
