@@ -131,4 +131,7 @@ dmypy.json
 # Misc
 *.pdf
 *.docx
+<<<<<<< HEAD
 resource/
+=======
+>>>>>>> 44853e468a72b818191a2333d412c6ed62af0697
