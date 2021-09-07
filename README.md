@@ -46,6 +46,6 @@ BitcoinVision is a FYP project created by Evan Millikan as a part of Asia Pacifi
 
 # FYP Website Sample Look
 
-![Image1](images\website1.PNG)
+![Image1](./images\website1.PNG)
 
-![alt](images\website2.PNG)
+![Image2](./images\website2.PNG)
